@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'c' | sed 'C'
+tr -d "Cc"
